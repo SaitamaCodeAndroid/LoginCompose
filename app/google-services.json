@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187194978284",
+    "project_id": "logincompose-9b85f",
+    "storage_bucket": "logincompose-9b85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187194978284:android:0253b583053ae95f58dac9",
+        "android_client_info": {
+          "package_name": "com.example.logincompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187194978284-10k65s41jgmojtitlua64uhr5ihhudae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logincompose",
+            "certificate_hash": "e23ff88c5493ab7111518cf9125c0c0d32b9c4d9"
+          }
+        },
+        {
+          "client_id": "187194978284-gic66dnue9n6psqpd3llot6t3jahso95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_4V9ubHXz4cAmqmrG3VSdOyb_QHmRJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187194978284-gic66dnue9n6psqpd3llot6t3jahso95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
